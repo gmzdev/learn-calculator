@@ -4,4 +4,4 @@ Learn Object Oriented programming by refactoring a simple .Net Calculator consol
 
 A simple step by step guide, as I understood the concept.
 
-Old but still applicable lessons from https://goo.gl/ihBzJE.
+Old but still relevant lessons from https://goo.gl/ihBzJE.
